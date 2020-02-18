@@ -62,7 +62,6 @@ List the hello-world container (spawned by the image) which exits after displayi
 ## Conclusion
 At this point, you’ve installed Docker Desktop on your development machine, and ran a quick test to ensure you are set up to build and run your first containerized application.
 
-source:
-https://docs.docker.com/get-started/
+[click here for source](https://docs.docker.com/get-started/)
 
 [ON TO PART 2 >>](/section2.md)
